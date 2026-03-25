@@ -1,6 +1,6 @@
 {
   "name": "@tryvienna/ui",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Production-ready component system for Vienna — Radix UI + Tailwind CSS v4 + CVA",
   "license": "Apache-2.0",
   "author": "the Vienna contributors",
